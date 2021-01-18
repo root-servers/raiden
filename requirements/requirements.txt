@@ -75,8 +75,8 @@ requests==2.25.1          # via -r requirements.in, ipfshttpclient, matrix-clien
 rlp==2.0.0                # via eth-account, eth-rlp, raiden-contracts
 semantic-version==2.6.0   # via py-solc
 semver==2.8.1             # via raiden-contracts
-six==1.15.0               # via cryptography, flask-cors, flask-restful, jsonschema, multiaddr, parsimonious, protobuf, pyrsistent, structlog
-structlog==20.1.0         # via -r requirements.in
+six==1.15.0               # via cryptography, flask-cors, flask-restful, jsonschema, multiaddr, parsimonious, protobuf, pyrsistent
+structlog==20.2.0         # via -r requirements.in
 toml==0.10.2              # via -r requirements.in
 toolz==0.9.0              # via cytoolz
 typing-extensions==3.7.4.3  # via -r requirements.in
